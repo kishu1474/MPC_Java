@@ -1,2 +1,13 @@
 
-hi
+Hello There..
+
+This is MPC project in java.
+
+Steps:
+
+(1) Install eclipse (latest version).
+(2) Install JDK (latest version).
+(3) Install pgAdmin 4.
+(4) Download project from the Git link.
+(5) Create a new dynamic project (same name) in eclipse and import the project.
+(6) Create a new server (same name) in pgadmin and restore the backup file.
